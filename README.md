@@ -1,6 +1,6 @@
 This is the data sample for 'Quality-Sensitive Training! Social Advertisement Generation by Leveraging User Click Behavior'.
 
-Note that both the input and output together contain 50,000 pairs of (raw) product titles and relevant descriptions.
+Note that both the input and output together contain 50,000 pairs of (raw) product titles and relevant descriptions (in Chinese).
 
 @inproceedings{wang2019quality,
   title={Quality-Sensitive Training! Social Advertisement Generation by Leveraging User Click Behavior},
